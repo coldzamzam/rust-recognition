@@ -19,7 +19,7 @@ def preprocess_and_predict(image: Image.Image):
     return pred, prob, edges
 
 # UI
-st.title("Rust Detection using Canny + SVM")
+st.title("Rust Detection using Canny")
 st.write("Upload a metal surface image to check for rust.")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
