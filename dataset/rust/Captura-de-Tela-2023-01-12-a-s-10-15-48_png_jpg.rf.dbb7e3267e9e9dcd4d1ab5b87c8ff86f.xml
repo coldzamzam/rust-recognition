@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Captura-de-Tela-2023-01-12-a-s-10-15-48_png_jpg.rf.dbb7e3267e9e9dcd4d1ab5b87c8ff86f.jpg</filename>
+	<path>Captura-de-Tela-2023-01-12-a-s-10-15-48_png_jpg.rf.dbb7e3267e9e9dcd4d1ab5b87c8ff86f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mild-corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>119</xmax>
+			<ymin>93</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

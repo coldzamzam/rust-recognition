@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000587_jpg.rf.0a616b78a87b5ec44c4b42e05ea1098d.jpg</filename>
+	<path>000587_jpg.rf.0a616b78a87b5ec44c4b42e05ea1098d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>639</xmax>
+			<ymin>1</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

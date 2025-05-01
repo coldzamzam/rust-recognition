@@ -1,0 +1,37 @@
+<annotation>
+	<folder></folder>
+	<filename>Captura-de-Tela-2023-01-12-a-s-09-58-13_png_jpg.rf.a4a3de528073a65c13a11a994bb6cb6d.jpg</filename>
+	<path>Captura-de-Tela-2023-01-12-a-s-09-58-13_png_jpg.rf.a4a3de528073a65c13a11a994bb6cb6d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corroded-part</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>274</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+		<polygon>
+			<x1>273.114</x1>
+			<y1>0</y1>
+			<x2>640</x2>
+			<y2>209.158</y2>
+			<x3>640</x3>
+			<y3>0</y3>
+			<x4>273.114</x4>
+			<y4>0</y4>
+		</polygon>
+	</object>
+</annotation>

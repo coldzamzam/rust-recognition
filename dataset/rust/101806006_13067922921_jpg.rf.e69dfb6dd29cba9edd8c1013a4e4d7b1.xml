@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>101806006_13067922921_jpg.rf.e69dfb6dd29cba9edd8c1013a4e4d7b1.jpg</filename>
+	<path>101806006_13067922921_jpg.rf.e69dfb6dd29cba9edd8c1013a4e4d7b1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>severe-corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>209</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

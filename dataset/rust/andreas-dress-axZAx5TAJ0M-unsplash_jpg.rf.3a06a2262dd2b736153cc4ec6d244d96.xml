@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>andreas-dress-axZAx5TAJ0M-unsplash_jpg.rf.3a06a2262dd2b736153cc4ec6d244d96.jpg</filename>
+	<path>andreas-dress-axZAx5TAJ0M-unsplash_jpg.rf.3a06a2262dd2b736153cc4ec6d244d96.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>383</xmax>
+			<ymin>6</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

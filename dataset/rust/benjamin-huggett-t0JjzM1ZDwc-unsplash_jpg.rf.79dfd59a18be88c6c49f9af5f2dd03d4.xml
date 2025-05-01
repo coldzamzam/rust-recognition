@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>benjamin-huggett-t0JjzM1ZDwc-unsplash_jpg.rf.79dfd59a18be88c6c49f9af5f2dd03d4.jpg</filename>
+	<path>benjamin-huggett-t0JjzM1ZDwc-unsplash_jpg.rf.79dfd59a18be88c6c49f9af5f2dd03d4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>247</xmin>
+			<xmax>480</xmax>
+			<ymin>301</ymin>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

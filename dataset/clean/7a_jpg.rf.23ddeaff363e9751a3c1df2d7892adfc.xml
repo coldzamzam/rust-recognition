@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>7a_jpg.rf.23ddeaff363e9751a3c1df2d7892adfc.jpg</filename>
+	<path>7a_jpg.rf.23ddeaff363e9751a3c1df2d7892adfc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>622</xmax>
+			<ymin>161</ymin>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

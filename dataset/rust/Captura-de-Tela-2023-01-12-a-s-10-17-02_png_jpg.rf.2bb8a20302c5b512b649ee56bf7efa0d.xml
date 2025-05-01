@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>Captura-de-Tela-2023-01-12-a-s-10-17-02_png_jpg.rf.2bb8a20302c5b512b649ee56bf7efa0d.jpg</filename>
+	<path>Captura-de-Tela-2023-01-12-a-s-10-17-02_png_jpg.rf.2bb8a20302c5b512b649ee56bf7efa0d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
